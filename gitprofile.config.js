@@ -79,7 +79,7 @@ const config = {
       link: ''
     },
     {
-      name: 'Unity Certified Programmer',
+      name: 'Unity Certified Professional: Programmer',
       body: 'Earners of the Unity Certified Professional: Programmer badge have the programming acumen within the context of professional software development processes to contribute to the creation and maintenance of applications built using Unity. Earners are able to solve difficult problems with code and are responsible for contributing to a broad range of potential technical tasks, including integrating art assets, coding the user interface, scripting user interactions and optimizing performance',
       year: '2019',
       link: 'https://www.credly.com/badges/dbd581b3-9095-4f4f-bc94-180e97807743/public_url'
@@ -98,9 +98,7 @@ const config = {
   externalProjects: [
     {
       title: 'Art Gate VR',
-      description:
-        'Brought in to help launch Art Gate International 2021. Using Photon, Implemented user name tags and customizable VR Avatar Colors. Also helped optimize the gallery menu system pulling from their web-based CMS. 
-',
+      description: 'Brought in to help launch Art Gate International 2021. Using Photon, Implemented user name tags and customizable VR Avatar Colors. Also helped optimize the gallery menu system pulling from their web-based CMS',
       imageUrl: 'https://www.artgatevr.com/wp-content/uploads/2020/09/ArtGate_logo_light.png',
       link: 'https://www.artgatevr.com/',
     },
