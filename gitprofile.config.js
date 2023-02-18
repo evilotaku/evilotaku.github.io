@@ -40,7 +40,7 @@ const config = {
     'Platic SCM',
     'Android',
     'Oculus Quest',
-    'Steam VR'
+    'Steam VR',
   ],
   experiences: [
     {
@@ -67,49 +67,46 @@ const config = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Microsoft Certified Professional',
+      body: '',
+      year: '2007',
+      link: 'https://learn.microsoft.com/en-us/users/evilotaku-2760/certifications/certification-details/certification.nouid.6?source=docs'
+    },
+    {
+      name: 'Apple Certified Professional',
+      body: '',
+      year: '2018',
+      link: ''
+    },
+    {
+      name: 'Unity Certified Programmer',
+      body: 'Earners of the Unity Certified Professional: Programmer badge have the programming acumen within the context of professional software development processes to contribute to the creation and maintenance of applications built using Unity. Earners are able to solve difficult problems with code and are responsible for contributing to a broad range of potential technical tasks, including integrating art assets, coding the user interface, scripting user interactions and optimizing performance',
+      year: '2019',
+      link: 'https://www.credly.com/badges/dbd581b3-9095-4f4f-bc94-180e97807743/public_url'
     },
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'ITT Technical Institute',
+      degree: ' Information System Security',
+      from: '2003',
+      to: '2005',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Art Gate VR',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Brought in to help launch Art Gate International 2021. Using Photon, Implemented user name tags and customizable VR Avatar Colors. Also helped optimize the gallery menu system pulling from their web-based CMS. 
+',
+      imageUrl: 'https://www.artgatevr.com/wp-content/uploads/2020/09/ArtGate_logo_light.png',
+      link: 'https://www.artgatevr.com/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: '', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
