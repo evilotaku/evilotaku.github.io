@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'evilotaku', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,64 +11,68 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: '',
-    facebook: '',
+    linkedin: 'devitt-upkins',
+    twitter: 'evilotaku',
+    mastodon: '@MemphisGameDevs@mastodon.gamedev.place',
+    facebook: 'Evil0taku',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: '',
+    phone: '901-262-2468',
+    email: 'evilotaku@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/195yL3xglkmnzZswoZ5p7TJdWcVaCUqT_L-rEPw8aZPo/edit?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'Unity',
+    'C#',
+    'Blender',
+    'Javascript',
+    'Python',
+    'Unreal',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Platic SCM',
+    'Android',
+    'Oculus Quest',
+    'Steam VR'
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Methodist Healthcare',
+      position: 'Help Desk Analyst',
+      from: 'July 2008',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.methodisthealth.org/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Memphis Game Developers',
+      position: 'President',
+      from: 'July 2013',
+      to: 'present',
+      companyLink: 'https://www.memphisgamedevelopers.org/',
+    },
+    {
+        company: 'XR Terra',
+        position: 'Instructor',
+        from: 'January 2021',
+        to: 'May 2021',
+        companyLink: 'https://www.xrterra.com/',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com'
     },
-  ], */
+  ],
   education: [
     {
       institution: 'Institution Name',
@@ -104,7 +108,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -116,7 +120,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
