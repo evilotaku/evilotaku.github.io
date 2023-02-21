@@ -59,7 +59,7 @@ const config = {
     },
     {
         company: 'XR Terra',
-        position: 'Instructor',
+        position: 'VR Instructor',
         from: 'January 2021',
         to: 'May 2021',
         companyLink: 'https://www.xrterra.com/',
@@ -101,6 +101,30 @@ const config = {
       description: 'Brought in to help launch Art Gate International 2021. Using Photon, Implemented user name tags and customizable VR Avatar Colors. Also helped optimize the gallery menu system pulling from their web-based CMS',
       imageUrl: 'https://www.artgatevr.com/wp-content/uploads/2020/09/ArtGate_logo_light.png',
       link: 'https://www.artgatevr.com/',
+    },
+    {
+      title: 'yXRd Games',
+      description: 'In this post COVID world, some activities are not as safe as they once were. Starting with the classic bag tossing game Cornhole, we plan to bringing these games safely into the modern era.',
+      imageUrl: 'https://www.artgatevr.com/wp-content/uploads/2020/09/ArtGate_logo_light.png',
+      link: 'https://www.artgatevr.com/',
+    },
+    {
+      title: 'Ziggurat Drop',
+      description: 'You’re a robot from the FUTURE!! .. or the past - whatever. You (and optionally your friends) find yourself trapped in a temple maze because… AND it has coin’s randomly scattered about, which you need to collect in order to activate the magical temple teleporter to the next level! Oh yeah, it’s also sinking into “hot magma” - So hurry!!',
+      imageUrl: 'https://img.itch.zone/aW1nLzM1NDY5NzUucG5n/315x250%23c/eh0DMM.png',
+      link: 'https://evilotaku.itch.io/yxrd-games',
+    },
+    {
+      title: 'Nebula Strike',
+      description: 'Created for Ludum Dare 38.The Game Jam\'s theme was " Small World." We thought up what is essentially a RTS game, but instead of taking place on flat maps, the level is a globe. Players scramble to capture outposts that spawn mobs. Depending on the type of outpost captured, the mobs will either attack enemy bases or defend their own base.The matchmaking is still in its infancy, and as a result only supports up to 20 concurrent players.',
+      imageUrl: 'https://img.itch.zone/aW1hZ2UvMTM4NDI1LzYzMzAyNS5qcGc=/315x250%23c/C42s89.jpg',
+      link: 'https://memphis-game-developers.itch.io/nebula-strike',
+    },
+    {
+      title: 'Intrigue',
+      description: 'Created for the UofM ACM GameJam as part of HackMemphis 2016. The Game Jam\'s theme was "Enemies Are Weapons." So we came up with the idea of being a spy at a dinner party. You have a target to kill, but you have to convince someone else to kill him for you.',
+      imageUrl: 'https://img.itch.zone/aW1hZ2UvODc1NzUvNDEyMzc0LnBuZw==/315x250%23c/LdCbG1.png',
+      link: 'https://memphis-game-developers.itch.io/intrigue',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
