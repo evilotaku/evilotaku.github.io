@@ -106,13 +106,13 @@ const config = {
       title: 'yXRd Games',
       description: 'In this post COVID world, some activities are not as safe as they once were. Starting with the classic bag tossing game Cornhole, we plan to bringing these games safely into the modern era.',
       imageUrl: 'https://img.itch.zone/aW1nLzM1NDY5NzUucG5n/315x250%23c/eh0DMM.png',
-      link: 'https://www.artgatevr.com/',
+      link: 'https://evilotaku.itch.io/yxrd-games',
     },
     {
       title: 'Ziggurat Drop',
       description: 'You’re a robot from the FUTURE!! .. or the past - whatever. You (and optionally your friends) find yourself trapped in a temple maze because… AND it has coin’s randomly scattered about, which you need to collect in order to activate the magical temple teleporter to the next level! Oh yeah, it’s also sinking into “hot magma” - So hurry!!',
       imageUrl: 'https://img.itch.zone/aW1hZ2UvMjkyMTA3LzE0Mjc3MzgucG5n/315x250%23c/om2ZC9.png',
-      link: 'https://evilotaku.itch.io/yxrd-games',
+      link: 'https://memphis-game-developers.itch.io/zigguratdrop',
     },
     {
       title: 'Nebula Strike',
