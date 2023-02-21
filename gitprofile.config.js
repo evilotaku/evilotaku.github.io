@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'evilotaku', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 8, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -99,19 +99,19 @@ const config = {
     {
       title: 'Art Gate VR',
       description: 'Brought in to help launch Art Gate International 2021. Using Photon, Implemented user name tags and customizable VR Avatar Colors. Also helped optimize the gallery menu system pulling from their web-based CMS',
-      imageUrl: 'https://www.artgatevr.com/wp-content/uploads/2020/09/ArtGate_logo_light.png',
+      imageUrl: 'https://www.artgatevr.com/wp-content/uploads/2020/08/ArtGate-Icon-2021.png',
       link: 'https://www.artgatevr.com/',
     },
     {
       title: 'yXRd Games',
       description: 'In this post COVID world, some activities are not as safe as they once were. Starting with the classic bag tossing game Cornhole, we plan to bringing these games safely into the modern era.',
-      imageUrl: 'https://www.artgatevr.com/wp-content/uploads/2020/09/ArtGate_logo_light.png',
+      imageUrl: 'https://img.itch.zone/aW1nLzM1NDY5NzUucG5n/315x250%23c/eh0DMM.png',
       link: 'https://www.artgatevr.com/',
     },
     {
       title: 'Ziggurat Drop',
       description: 'You’re a robot from the FUTURE!! .. or the past - whatever. You (and optionally your friends) find yourself trapped in a temple maze because… AND it has coin’s randomly scattered about, which you need to collect in order to activate the magical temple teleporter to the next level! Oh yeah, it’s also sinking into “hot magma” - So hurry!!',
-      imageUrl: 'https://img.itch.zone/aW1nLzM1NDY5NzUucG5n/315x250%23c/eh0DMM.png',
+      imageUrl: 'https://img.itch.zone/aW1hZ2UvMjkyMTA3LzE0Mjc3MzgucG5n/315x250%23c/om2ZC9.png',
       link: 'https://evilotaku.itch.io/yxrd-games',
     },
     {
