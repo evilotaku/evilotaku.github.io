@@ -13,6 +13,7 @@ const config = {
   social: {
     linkedin: 'devitt-upkins',
     twitter: 'evilotaku',
+    youtube: 'MemphisGameDevs',
     mastodon: '@MemphisGameDevs@mastodon.gamedev.place',
     facebook: 'Evil0taku',
     instagram: '',
@@ -27,7 +28,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://docs.google.com/document/d/195yL3xglkmnzZswoZ5p7TJdWcVaCUqT_L-rEPw8aZPo/edit?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      https://drive.google.com/file/d/1cFk8eYgojPmJIHDWeVn3muwXzG2RRLTk/view?usp=share_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Unity',
@@ -35,7 +36,7 @@ const config = {
     'Blender',
     'Javascript',
     'Python',
-    'Unreal',
+    'Mulitplayer Networking',
     'Git',
     'Platic SCM',
     'Android',
