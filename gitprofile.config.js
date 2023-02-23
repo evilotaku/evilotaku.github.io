@@ -28,7 +28,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      https://drive.google.com/file/d/1cFk8eYgojPmJIHDWeVn3muwXzG2RRLTk/view?usp=share_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1cFk8eYgojPmJIHDWeVn3muwXzG2RRLTk/view?usp=share_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Unity',
