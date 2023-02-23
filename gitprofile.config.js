@@ -36,9 +36,9 @@ const config = {
     'Blender',
     'Javascript',
     'Python',
-    'Mulitplayer Networking',
+    'Multiplayer Networking',
     'Git',
-    'Platic SCM',
+    'Plastic SCM',
     'Android',
     'Oculus Quest',
     'Steam VR',
@@ -89,7 +89,7 @@ const config = {
   education: [
     {
       institution: 'ITT Technical Institute',
-      degree: ' Information System Security',
+      degree: 'Information System Security',
       from: '2003',
       to: '2005',
     },
@@ -130,6 +130,9 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
+    source: 'medium', // medium | dev
+    username: 'evilotaku', // to hide blog section, keep it empty
+    limit: 6, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
